@@ -1,5 +1,5 @@
 {
-  "image": "socalucr/gpgpu-sim",
+  "image": "tgrogers/gpgpu-sim_regress",
   "forwardPorts": [3000],
   "settings": {
     "terminal.integrated.shell.linux": "/bin/bash"
